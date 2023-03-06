@@ -1,0 +1,30 @@
+/* theme variable */
+$themes: (
+  // light
+  light:
+    (
+      // light theme
+      color-primary: #3961f5,
+      color-primary-second: #5e81f7,
+      color-text-primary: #242f57,
+      color-success: #04b78a,
+      color-warning: #f2a626,
+      color-danger: #ee2e6b,
+      background: #fff,
+      font_title: #5C54FF,
+      background-content: #f4f7fc,
+      background-color: #eaedf7,
+    ),
+  //dark theme
+  dark:
+    (
+      color-primary: #3961f5,
+      color-primary-second: #5e81f7,
+      color-text-primary: #ffffff,
+      color-danger: #ee2e6b,
+      background: #1d2742,
+      font_title: #0B6E51,
+      background-content: #13192f,
+      background-color: #1d2742,
+    )
+);
